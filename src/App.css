@@ -1,0 +1,33 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+li {
+  list-style: none;
+  padding: 10px;
+}
+
+button {
+  margin-left: 5px;
+  margin-right: 5px;
+}
+
+.addBtn {
+  background-color: aquamarine;
+}
+
+.editBtn {
+  background-color: bisque;
+}
+
+.delBtn {
+  background-color: rgb(244, 95, 125);
+  color: black;
+}
+
+input {
+  padding: 9px 25px;
+}
